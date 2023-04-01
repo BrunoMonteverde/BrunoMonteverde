@@ -3,7 +3,7 @@ Eu sou o Bruno da Silva Monteverde 🖐️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-da-silva-monteverde/)
 
-[![Bruno's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=BrunoMonteverde&show_icons=true&include_all_commits=true&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Bruno's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=BrunoMonteverde&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ## Tecnologias que estou estudando
 
