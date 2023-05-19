@@ -3,7 +3,7 @@ Eu sou o Bruno da Silva Monteverde 🖐️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-da-silva-monteverde/)
 
-<p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrunoMonteverde&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrunoMonteverde&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only" /></p>
 
 ## Tecnologias que estou estudando
 
